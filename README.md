@@ -1,4 +1,4 @@
-# Exercise 4: (Bonus) The travelling salesman
+# Exercise 4: The travelling salesman
 
 ### About
 For this last you need to come up with a solution to the travelling salesman problem given the following conditions:
